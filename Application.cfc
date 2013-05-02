@@ -1,0 +1,2 @@
+<cfcomponent displayname="Application">
+</cfcomponent>
